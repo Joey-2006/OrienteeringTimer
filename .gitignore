@@ -1,0 +1,17 @@
+## Visual Studio files
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build outputs
+*.dll
+*.exe
+*.pdb
+
+## SQLite temp files
+*.db-shm
+*.db-wal

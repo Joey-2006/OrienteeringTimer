@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="OrienteeringTimer.App/OrienteeringTimer.App.csproj" />
+  <Project Path="OrienteeringTimer.Core/OrienteeringTimer.Core.csproj" />
+  <Project Path="OrienteeringTimer.Simulator/OrienteeringTimer.Simulator.csproj" />
+</Solution>
