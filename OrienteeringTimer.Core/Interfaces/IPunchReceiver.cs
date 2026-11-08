@@ -5,6 +5,7 @@ using OrienteeringTimer.Core.Models;
 
 namespace OrienteeringTimer.Core.Interfaces
 {
+    //testing.....
     public interface IPunchReceiver : IDisposable
     {
         /// <summary>
